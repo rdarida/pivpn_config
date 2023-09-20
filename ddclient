@@ -1,4 +1,4 @@
-# /etc/default/ddclient
+# cp ./ddclient /etc/default/ddclient
 
 run_dhclient="false"
 run_ipup="false"
